@@ -10,17 +10,39 @@ h1{
     margin-bottom:35px;
 
 }
+h2{
+    margin-left: 150px;
+    margin-top:250px;
+    font-size:30px;
+   font-family: sans-serif;
+    font-weight: 700;
+}
 p{
     margin-left:30px;
     margin-bottom:45px;
 }
+#pragrap-item{
+    margin-left:150px;
+    margin-bottom:70px;
+}
 .button-link{
+    color: white;
     text-decoration: none;
     background-image: linear-gradient(orange,#d35400);
-    padding: 17px 40px;
+    padding:18px 30px;
     border-radius:20px;
     margin-left:30px;
+    font-weight: 700;
     
+}
+.btns-button{
+    color: white;
+    text-decoration: none;
+    background-image: linear-gradient(orange,#d35400);
+    padding:18px 40px;
+    border-radius:20px;
+    margin-left:150px;
+    font-weight: 700;
 }
 .orange-color{
     color: orange;
@@ -28,6 +50,12 @@ p{
 .top-banner{
  background-image: url(banner.jpg);
  background-repeat: no-repeat;
+}
+.main-area{
+    background-image: url(main-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
 }
 
 
@@ -40,6 +68,7 @@ p{
 .row-area img{
     width:100%;
     margin-left:20px;
+    
 }
 section{
     display: flex;
