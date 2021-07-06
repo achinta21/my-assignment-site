@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .list-area{
-    background-color: rgb(78, 236, 196);
+    background-color: rgb(174, 68, 235);
     display: flex;
     
 }
@@ -19,6 +19,7 @@ body{
 }
 .list-item a{
     text-decoration: none;
+    color: white;
     font-size: 20px;
     margin-left:80px;
     margin-right: 30px ;
